@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/civic",
   "title": "Civic",
   "description": "CIViC — Clinical Interpretation of Variants in Cancer.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/civic",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-civic",
