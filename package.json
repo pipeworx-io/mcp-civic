@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-civic",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "CIViC — Clinical Interpretation of Variants in Cancer.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "civic",
     "gatewaySlug": "civic",
-    "sourceHash": "v1-4f7e60882b68a83b2d54d4149be016749a5f770d9002b1129a4e389e150d8333",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-92ea6ff08703b7f3d22d8d5ed694ae85ee463a5646989da4fb87dbcbc752439c",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
